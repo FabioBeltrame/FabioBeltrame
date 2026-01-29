@@ -1,5 +1,7 @@
 ## Hello there 👋 Welcome to my personal project hub.
 
+### NOTE: This GitHub repo does not include the vast majority of my projects, which are stored in private repositories on local GitLab servers or Bitbucket.
+
 ### About Me
 * _PhD_ in **Power & Propulsion** systems from the Aerospace Engineering faculty of **Delft University of Technology**
 * _M.Sc_ in Aerospace Engineering with a specialization in **fluid dynamics and propulsion** from **Politecnico di Torino**
