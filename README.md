@@ -1,19 +1,23 @@
 ## Hello there 👋 Welcome to my personal project hub.
 
-### NOTE: This GitHub repo does not include the vast majority of my projects, which are stored in private repositories on local GitLab servers or Bitbucket.
+### NOTE: This GitHub repo doesn't include most of my projects, which are stored in private repositories on local GitLab servers or Bitbucket.
 
 ### About Me
+* Senior thermal engineer for power and propulsion systems & project lead on aero engine developments
 * _PhD_ in **Power & Propulsion** systems from the Aerospace Engineering faculty of **Delft University of Technology**
 * _M.Sc_ in Aerospace Engineering with a specialization in **fluid dynamics and propulsion** from **Politecnico di Torino**
 
 ### About my Research
-- 🔭 I’m currently working on Thermal Systems for next-gen hydrogen-powered systems for aerospace applications
-- 🌱 I’m currently expanding my knowledge about fuel cells and electric systems
+- 🔭 I’m currently working on next-gen power systems for aerospace and ground applications
+- 🔎 I’ve worked on fuel cells, air supply systems, and TMS of electric systems for hybrid propulsion in aviation during my _Post-Doc_
+- 🔎 I’ve developed modelling frameworks and automated design optimization methods for novel combined-cycle aero engines concepts
 - 📫 How to reach me: For inquiries about my research, internships or collaborations, please contact me at f.beltrame@tudelft.nl
 
 ### Personal Projects
 - 🔭 I’m currently learning website and web-app development (The hard way! No vibe-coded bulls**t)
-- 💬 I'd like to make a personal website with an inbuilt blog and useful thermal and drag calculation tools.
+- 💬 I'm developing a personal website with an inbuilt blog and useful thermal and drag calculation tools.
+- 🔇 Stealth project 
+
 
 <!--
 **FabioBeltrame/FabioBeltrame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
